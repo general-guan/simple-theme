@@ -1,0 +1,21 @@
+{
+    "name": "simple-theme",
+    "displayName": "Simple Theme",
+    "description": "一款简洁的主题",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "general-guan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/general-guan-color-theme.json"
+            }
+        ]
+    }
+}
