@@ -3,7 +3,7 @@
     "displayName": "One Simple Theme",
     "description": "一款简洁的主题",
     "publisher": "general-guan",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/general-guan/simple-theme.git"
@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "general-guan",
+                "label": "One Simple Theme Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/general-guan-color-theme.json"
             }
