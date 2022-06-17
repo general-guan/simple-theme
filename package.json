@@ -1,8 +1,13 @@
 {
-    "name": "simple-theme",
-    "displayName": "Simple Theme",
+    "name": "one-simple-theme",
+    "displayName": "One Simple Theme",
     "description": "一款简洁的主题",
+    "publisher": "general-guan",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/general-guan/simple-theme.git"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },
